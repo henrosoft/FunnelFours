@@ -1,0 +1,347 @@
+TFunnelFours
+v7
+r0
+t321949433.152448
+cCheck dependencies
+cProcessInfoPlistFile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/Info.plist FunnelFours-Info.plist
+cCompileXIB /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/MainWindow.xib
+cCompileXIB /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFoursViewController.xib
+cProcessPCH /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch.gch FunnelFours_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/main.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursAppDelegate.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursViewController.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/GUIBoard.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Square.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Piece.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours normal i386
+cGenerateDSYMFile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app.dSYM /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours
+cTouch /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B27A47300000000000000EE
+t1260889203
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.h
+c000000004D76D81C00000000000001FA
+t1299634204
+s506
+i<UIKit/UIKit.h>
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m
+c000000004D76D81C0000000000000281
+t1299634204
+s641
+i"FunnelFoursAppDelegate.h"
+i"FunnelFoursViewController.h"
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.h
+c000000004D780FFE000000000000012C
+t1299714046
+s300
+i<UIKit/UIKit.h>
+i"GUIBoard.h"
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m
+c000000004D780FE90000000000000629
+t1299714025
+s1577
+i"FunnelFoursViewController.h"
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.h
+c000000004D802CD4000000000000013F
+t1300245716
+s319
+i<UIKit/UIKit.h>
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m
+c000000004D805778000000000000117D
+t1300256632
+s4477
+i"GUIBoard.h"
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.h
+c000000004D80002100000000000000CC
+t1300234273
+s204
+i<UIKit/UIKit.h>
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m
+c000000004D80001C00000000000001AD
+t1300234268
+s429
+i"Piece.h"
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.h
+c000000004D7A7D620000000000000116
+t1299873122
+s278
+i<Foundation/Foundation.h>
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m
+c000000004D800025000000000000016A
+t1300234277
+s362
+i"Square.h"
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFoursViewController.xib
+c000000004D78592000000000000042AB
+t1299732768
+s17067
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFours_Prefix.pch
+c000000004D76D81C00000000000000BF
+t1299634204
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/MainWindow.xib
+c000000004D76D81C000000000000247A
+t1299634204
+s9338
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app
+t1300256633
+s238
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app.dSYM
+t1300256633
+s102
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours
+t1300256632
+s27792
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFoursViewController.nib
+t1299732772
+s1473
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/Info.plist
+t1299634210
+s580
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/MainWindow.nib
+t1299634214
+s1503
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/PkgInfo
+t1299634210
+s8
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFours.LinkFileList
+c000000004D8000800000000000000448
+t1300234368
+s1096
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursAppDelegate.o
+t1300245761
+s38532
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursViewController.o
+t1300245761
+s31232
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/GUIBoard.o
+t1300256632
+s19024
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Piece.o
+t1300234369
+s9884
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Square.o
+t1300234369
+s6680
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/main.o
+t1299634216
+s6048
+
+N/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m
+c000000004D76D81C0000000000000170
+t1299634204
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch.gch
+t1299634216
+s13034960
+
+NFunnelFours-Info.plist
+c000000004D76D81C000000000000038D
+t1299634204
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321949432#321949432#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursAppDelegate.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321938561.779753
+e321938561.997853
+r1
+xCompileC
+xbuild/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursAppDelegate.o
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@124"Compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m321938561#321938561#0(0"0(0#0#116"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m4300885448#2478"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -include /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursAppDelegate.m -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursAppDelegate.o0#
+
+CCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursViewController.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321938561.780738
+e321938561.878808
+r1
+xCompileC
+xbuild/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursViewController.o
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@127"Compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m321938561#321938561#0(0"0(0#0#119"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m4300885448#2484"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -include /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/FunnelFoursViewController.m -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFoursViewController.o0#
+
+CCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/GUIBoard.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321949432.358282
+e321949432.528453
+r1
+xCompileC
+xbuild/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/GUIBoard.o
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m321949432#321949432#0(0"0(0#0#102"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m4300885448#2450"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -include /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/GUIBoard.m -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/GUIBoard.o0#
+
+CCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Piece.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321927169.163712
+e321927169.294921
+r1
+xCompileC
+xbuild/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Piece.o
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m321927169#321927169#0(0"0(0#0#99"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m4300885448#2444"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -include /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Piece.m -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Piece.o0#
+
+CCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Square.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321927168.960308
+e321927169.163614
+r1
+xCompileC
+xbuild/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Square.o
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m321927168#321927169#0(0"0(0#0#100"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m4300885448#2446"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -include /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/Classes/Square.m -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/Square.o0#
+
+CCompileC build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/main.o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321327016.485718
+e321327016.593284
+r1
+xCompileC
+xbuild/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/main.o
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m321327016#321327016#0(0"0(0#0#90"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m4300885448#2434"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -include /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/main.m -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFoursViewController.xib
+s321425571.806765
+e321425572.086390
+r1
+xCompileXIB
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFoursViewController.xib
+lSLF07#2@40"CompileXIB FunnelFoursViewController.xib321425571#321425572#0(0"0(0#0#113"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFoursViewController.xib4300885448#651"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFoursViewController.nib /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFoursViewController.xib0#
+
+CCompileXIB /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/MainWindow.xib
+s321327010.251731
+e321327015.337948
+r1
+xCompileXIB
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321327010#321327015#0(0"0(0#0#98"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/MainWindow.xib4300885448#621"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/MainWindow.nib /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app.dSYM /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours
+s321949432.996102
+e321949433.122133
+r1
+xGenerateDSYMFile
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app.dSYM
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/FunnelFours.app.dSYM build/Debug-iphonesimulator/FunnelFours.app/FunnelFours321949432#321949433#0(0"0(0#0#139"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours4300885448#530"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app.dSYM0#
+
+CLd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours normal i386
+s321949432.528543
+e321949432.996006
+r1
+xLd
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours
+xnormal
+xi386
+lSLF07#2@144"Link /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours321949432#321949432#0(0"0(0#0#0"4300885448#1109"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -filelist /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/Objects-normal/i386/FunnelFours.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/FunnelFours0#
+
+CProcessInfoPlistFile /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/Info.plist FunnelFours-Info.plist
+s321327010.198857
+e321327010.251594
+r1
+xProcessInfoPlistFile
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/Info.plist
+xFunnelFours-Info.plist
+lSLF07#2@30"Process FunnelFours-Info.plist321327010#321327010#0(0"0(0#0#106"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFours-Info.plist30962749953933360#626"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FunnelFours-Info.plist -genpkginfo /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app/Info.plist0#
+
+CProcessPCH /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch.gch FunnelFours_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321327015.338119
+e321327016.485550
+r1
+xProcessPCH
+x/var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch.gch
+xFunnelFours_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile FunnelFours_Prefix.pch321327015#321327016#0(0"0(0#0#106"/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFours_Prefix.pch4300885448#2277"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-generated-files.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-own-target-headers.hmap -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-all-target-headers.hmap -iquote /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/FunnelFours-project-headers.hmap -F/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/include -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources/i386 -I/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/FunnelFours.build/Debug-iphonesimulator/FunnelFours.build/DerivedSources -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/FunnelFours_Prefix.pch -o /var/folders/MO/MOfDL-AUFdKFbVepXaKw0k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FunnelFours_Prefix-gnuuvshvgtnmuthafwkisgcbwhji/FunnelFours_Prefix.pch.gch0#
+
+CTouch /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app
+s321949433.122243
+e321949433.152342
+r1
+xTouch
+x/Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app
+lSLF07#2@133"Touch /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app321949433#321949433#0(0"0(0#0#0"4300885448#372"    cd /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/henrybradlow/Desktop/Work/College/Berkeley/Work/Spring2011/MSDOX/FunnelFours/build/Debug-iphonesimulator/FunnelFours.app0#
+
