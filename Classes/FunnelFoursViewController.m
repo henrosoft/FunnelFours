@@ -7,6 +7,10 @@
 //
 
 #import "FunnelFoursViewController.h"
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 #import <AudioToolbox/AudioToolbox.h>
 
 
@@ -15,6 +19,15 @@
 @synthesize holder;
 @synthesize boardModel;
 @synthesize boardView;
+<<<<<<< HEAD
+=======
+=======
+
+@implementation FunnelFoursViewController
+
+
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 
 /*
 // The designated initializer. Override to perform setup that is required before the view is loaded.
@@ -30,16 +43,30 @@
 }
 -(void) touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 	[boardModel setAngleSpeed:0];
 	[boardModel setGlide:NO];
 	if([boardView isInCenterButton:[touches anyObject]])
 		[boardModel makeMove];
+<<<<<<< HEAD
+=======
+=======
+	
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 }
 /*
 // Implement loadView to create a view hierarchy programmatically, without using a nib.
 - (void)loadView {
 }
 */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 -(GUIBoard*) boardView
 {
 	return boardView;
@@ -124,6 +151,19 @@
 	//[holder setNeedsDisplay];
 	//[boardView setNeedsDisplay];
 }
+<<<<<<< HEAD
+=======
+=======
+
+
+/*
+// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
+- (void)viewDidLoad {
+    [super viewDidLoad];
+}
+*/
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 
 
 /*
@@ -149,7 +189,14 @@
 
 - (void)dealloc {
     [super dealloc];
+<<<<<<< HEAD
 	[boardModel release];
+=======
+<<<<<<< HEAD
+	[boardModel release];
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 }
 
 @end

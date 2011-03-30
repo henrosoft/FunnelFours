@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <archive type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="7.10">
 	<data>
+<<<<<<< HEAD
 		<int key="IBDocument.SystemTarget">1056</int>
 		<string key="IBDocument.SystemVersion">10J869</string>
 		<string key="IBDocument.InterfaceBuilderVersion">851</string>
+=======
+<<<<<<< HEAD
+		<int key="IBDocument.SystemTarget">1056</int>
+		<string key="IBDocument.SystemVersion">10J869</string>
+		<string key="IBDocument.InterfaceBuilderVersion">851</string>
+=======
+		<int key="IBDocument.SystemTarget">784</int>
+		<string key="IBDocument.SystemVersion">10H574</string>
+		<string key="IBDocument.InterfaceBuilderVersion">740</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 		<string key="IBDocument.AppKitVersion">1038.35</string>
 		<string key="IBDocument.HIToolboxVersion">461.00</string>
 		<object class="NSMutableDictionary" key="IBDocument.PluginVersions">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+<<<<<<< HEAD
 			<string key="NS.object.0">141</string>
+=======
+<<<<<<< HEAD
+			<string key="NS.object.0">141</string>
+=======
+			<string key="NS.object.0">62</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 		</object>
 		<object class="NSMutableArray" key="IBDocument.EditedObjectIDs">
 			<bool key="EncodedWithXMLCoder">YES</bool>
@@ -31,11 +51,23 @@
 			<bool key="EncodedWithXMLCoder">YES</bool>
 			<object class="IBProxyObject" id="372490531">
 				<string key="IBProxiedObjectIdentifier">IBFilesOwner</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 			</object>
 			<object class="IBProxyObject" id="843779117">
 				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
 				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+<<<<<<< HEAD
+=======
+=======
+			</object>
+			<object class="IBProxyObject" id="843779117">
+				<string key="IBProxiedObjectIdentifier">IBFirstResponder</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 			</object>
 			<object class="IBUIView" id="774585933">
 				<reference key="NSNextResponder"/>
@@ -45,15 +77,31 @@
 					<object class="IBUIView" id="768830931">
 						<reference key="NSNextResponder" ref="774585933"/>
 						<int key="NSvFlags">274</int>
+<<<<<<< HEAD
 						<string key="NSFrame">{{0, 80}, {320, 320}}</string>
 						<reference key="NSSuperview" ref="774585933"/>
 						<object class="NSColor" key="IBUIBackgroundColor" id="800616855">
+=======
+<<<<<<< HEAD
+						<string key="NSFrame">{{0, 80}, {320, 320}}</string>
+						<reference key="NSSuperview" ref="774585933"/>
+						<object class="NSColor" key="IBUIBackgroundColor" id="800616855">
+=======
+						<string key="NSFrame">{{9, 82}, {306, 306}}</string>
+						<reference key="NSSuperview" ref="774585933"/>
+						<object class="NSColor" key="IBUIBackgroundColor">
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 							<int key="NSColorSpace">3</int>
 							<bytes key="NSWhite">MSAwAA</bytes>
 							<object class="NSColorSpace" key="NSCustomColorSpace" id="822772432">
 								<int key="NSID">2</int>
 							</object>
 						</object>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<bool key="IBUIAutoresizesSubviews">NO</bool>
 						<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
 						<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
@@ -105,6 +153,12 @@
 						<int key="IBUIBaselineAdjustment">1</int>
 						<float key="IBUIMinimumFontSize">10</float>
 						<int key="IBUITextAlignment">1</int>
+<<<<<<< HEAD
+=======
+=======
+						<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					</object>
 				</object>
 				<string key="NSFrameSize">{320, 460}</string>
@@ -116,6 +170,10 @@
 				</object>
 				<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
 				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
 			</object>
 			<object class="IBUIWindow" id="288407967">
@@ -130,6 +188,11 @@
 				<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
 				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>
 				<string key="targetRuntimeIdentifier">IBCocoaTouchFramework</string>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 			</object>
 		</object>
 		<object class="IBObjectContainer" key="IBDocument.Objects">
@@ -145,6 +208,10 @@
 				</object>
 				<object class="IBConnectionRecord">
 					<object class="IBCocoaTouchOutletConnection" key="connection">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="label">boardView</string>
 						<reference key="source" ref="372490531"/>
 						<reference key="destination" ref="768830931"/>
@@ -166,6 +233,16 @@
 						<reference key="destination" ref="916940835"/>
 					</object>
 					<int key="connectionID">34</int>
+<<<<<<< HEAD
+=======
+=======
+						<string key="label">board</string>
+						<reference key="source" ref="372490531"/>
+						<reference key="destination" ref="768830931"/>
+					</object>
+					<int key="connectionID">15</int>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 				</object>
 			</object>
 			<object class="IBMutableOrderedSet" key="objectRecords">
@@ -193,10 +270,20 @@
 						<reference key="object" ref="774585933"/>
 						<object class="NSMutableArray" key="children">
 							<bool key="EncodedWithXMLCoder">YES</bool>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 							<reference ref="613912255"/>
 							<reference ref="768830931"/>
 							<reference ref="267972791"/>
 							<reference ref="916940835"/>
+<<<<<<< HEAD
+=======
+=======
+							<reference ref="768830931"/>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						</object>
 						<reference key="parent" ref="0"/>
 					</object>
@@ -208,6 +295,10 @@
 						</object>
 						<reference key="parent" ref="774585933"/>
 					</object>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					<object class="IBObjectRecord">
 						<int key="objectID">26</int>
 						<reference key="object" ref="613912255"/>
@@ -228,6 +319,11 @@
 						<reference key="object" ref="288407967"/>
 						<reference key="parent" ref="0"/>
 					</object>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 				</object>
 			</object>
 			<object class="NSMutableDictionary" key="flattenedProperties">
@@ -238,12 +334,21 @@
 					<string>-2.CustomClassName</string>
 					<string>14.CustomClassName</string>
 					<string>14.IBPluginDependency</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					<string>24.CustomClassName</string>
 					<string>24.IBPluginDependency</string>
 					<string>26.IBPluginDependency</string>
 					<string>33.IBPluginDependency</string>
 					<string>35.IBEditorWindowLastContentRect</string>
 					<string>35.IBPluginDependency</string>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					<string>6.IBEditorWindowLastContentRect</string>
 					<string>6.IBPluginDependency</string>
 				</object>
@@ -253,6 +358,10 @@
 					<string>UIResponder</string>
 					<string>GUIBoard</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					<string>PieceHolder</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
@@ -260,6 +369,12 @@
 					<string>{{547, 153}, {320, 480}}</string>
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 					<string>{{533, 149}, {320, 480}}</string>
+<<<<<<< HEAD
+=======
+=======
+					<string>{{642, 183}, {320, 480}}</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					<string>com.apple.InterfaceBuilder.IBCocoaTouchPlugin</string>
 				</object>
 			</object>
@@ -279,7 +394,15 @@
 				</object>
 			</object>
 			<nil key="sourceID"/>
+<<<<<<< HEAD
 			<int key="maxID">39</int>
+=======
+<<<<<<< HEAD
+			<int key="maxID">39</int>
+=======
+			<int key="maxID">16</int>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 		</object>
 		<object class="IBClassDescriber" key="IBDocument.Classes">
 			<object class="NSMutableArray" key="referencedPartialClassDescriptions">
@@ -288,6 +411,10 @@
 					<string key="className">FunnelFoursViewController</string>
 					<string key="superclassName">UIViewController</string>
 					<object class="NSMutableDictionary" key="outlets">
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<bool key="EncodedWithXMLCoder">YES</bool>
 						<object class="NSArray" key="dict.sortedKeys">
 							<bool key="EncodedWithXMLCoder">YES</bool>
@@ -325,6 +452,13 @@
 								<string key="candidateClassName">PieceHolder</string>
 							</object>
 						</object>
+<<<<<<< HEAD
+=======
+=======
+						<string key="NS.key.0">board</string>
+						<string key="NS.object.0">GUIBoard</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					</object>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBProjectSource</string>
@@ -339,6 +473,10 @@
 						<string key="minorKey">Classes/GUIBoard.h</string>
 					</object>
 				</object>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 				<object class="IBPartialClassDescription">
 					<string key="className">PieceHolder</string>
 					<string key="superclassName">UIView</string>
@@ -347,6 +485,11 @@
 						<string key="minorKey">Classes/PieceHolder.h</string>
 					</object>
 				</object>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 			</object>
 			<object class="NSMutableArray" key="referencedPartialClassDescriptionsV3.2+">
 				<bool key="EncodedWithXMLCoder">YES</bool>
@@ -389,6 +532,19 @@
 					<string key="className">NSObject</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+						<string key="minorKey">Foundation.framework/Headers/NSNetServices.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">Foundation.framework/Headers/NSObject.h</string>
 					</object>
 				</object>
@@ -396,6 +552,19 @@
 					<string key="className">NSObject</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+						<string key="minorKey">Foundation.framework/Headers/NSPort.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">Foundation.framework/Headers/NSRunLoop.h</string>
 					</object>
 				</object>
@@ -403,6 +572,19 @@
 					<string key="className">NSObject</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+						<string key="minorKey">Foundation.framework/Headers/NSStream.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">Foundation.framework/Headers/NSThread.h</string>
 					</object>
 				</object>
@@ -424,18 +606,38 @@
 					<string key="className">NSObject</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
 						<string key="minorKey">UIKit.framework/Headers/UIAccessibility.h</string>
+=======
+<<<<<<< HEAD
+						<string key="minorKey">UIKit.framework/Headers/UIAccessibility.h</string>
+=======
+						<string key="minorKey">Foundation.framework/Headers/NSXMLParser.h</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					</object>
 				</object>
 				<object class="IBPartialClassDescription">
 					<string key="className">NSObject</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
 						<string key="minorKey">UIKit.framework/Headers/UINibLoading.h</string>
+=======
+<<<<<<< HEAD
+						<string key="minorKey">UIKit.framework/Headers/UINibLoading.h</string>
+=======
+						<string key="minorKey">UIKit.framework/Headers/UIAccessibility.h</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					</object>
 				</object>
 				<object class="IBPartialClassDescription">
 					<string key="className">NSObject</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					<object class="IBClassDescriptionSource" key="sourceIdentifier" id="879739077">
 						<string key="majorKey">IBFrameworkSource</string>
 						<string key="minorKey">UIKit.framework/Headers/UIResponder.h</string>
@@ -447,6 +649,21 @@
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
 						<string key="minorKey">UIKit.framework/Headers/UILabel.h</string>
+<<<<<<< HEAD
+=======
+=======
+					<object class="IBClassDescriptionSource" key="sourceIdentifier">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UINibLoading.h</string>
+					</object>
+				</object>
+				<object class="IBPartialClassDescription">
+					<string key="className">NSObject</string>
+					<object class="IBClassDescriptionSource" key="sourceIdentifier" id="879739077">
+						<string key="majorKey">IBFrameworkSource</string>
+						<string key="minorKey">UIKit.framework/Headers/UIResponder.h</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 					</object>
 				</object>
 				<object class="IBPartialClassDescription">
@@ -474,6 +691,10 @@
 					<string key="className">UIView</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">UIKit.framework/Headers/UIPrintFormatter.h</string>
 					</object>
 				</object>
@@ -481,6 +702,11 @@
 					<string key="className">UIView</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">UIKit.framework/Headers/UITextField.h</string>
 					</object>
 				</object>
@@ -503,6 +729,10 @@
 					<string key="className">UIViewController</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">UIKit.framework/Headers/UIPopoverController.h</string>
 					</object>
 				</object>
@@ -517,6 +747,11 @@
 					<string key="className">UIViewController</string>
 					<object class="IBClassDescriptionSource" key="sourceIdentifier">
 						<string key="majorKey">IBFrameworkSource</string>
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 						<string key="minorKey">UIKit.framework/Headers/UITabBarController.h</string>
 					</object>
 				</object>
@@ -528,6 +763,10 @@
 						<string key="minorKey">UIKit.framework/Headers/UIViewController.h</string>
 					</object>
 				</object>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 				<object class="IBPartialClassDescription">
 					<string key="className">UIWindow</string>
 					<string key="superclassName">UIView</string>
@@ -544,6 +783,14 @@
 			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.iPhoneOS</string>
 			<integer value="1056" key="NS.object.0"/>
 		</object>
+<<<<<<< HEAD
+=======
+=======
+			</object>
+		</object>
+		<int key="IBDocument.localizationMode">0</int>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 		<object class="NSMutableDictionary" key="IBDocument.PluginDeclaredDevelopmentDependencies">
 			<string key="NS.key.0">com.apple.InterfaceBuilder.CocoaTouchPlugin.InterfaceBuilder3</string>
 			<integer value="3100" key="NS.object.0"/>
@@ -551,6 +798,14 @@
 		<bool key="IBDocument.PluginDeclaredDependenciesTrackSystemTargetVersion">YES</bool>
 		<string key="IBDocument.LastKnownRelativeProjectPath">FunnelFours.xcodeproj</string>
 		<int key="IBDocument.defaultPropertyAccessControl">3</int>
+<<<<<<< HEAD
 		<string key="IBCocoaTouchPluginVersion">141</string>
+=======
+<<<<<<< HEAD
+		<string key="IBCocoaTouchPluginVersion">141</string>
+=======
+		<string key="IBCocoaTouchPluginVersion">3.1</string>
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
+>>>>>>> 0276375d9a41ac3e441ed75fb7a468110576155d
 	</data>
 </archive>
