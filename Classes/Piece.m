@@ -19,10 +19,14 @@
     return self;
 }
 
+<<<<<<< HEAD
 -(void) awakeFromNib
 {
 	
 }
+=======
+
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 - (void)drawRect:(CGRect)rect {
     // Drawing code
 }

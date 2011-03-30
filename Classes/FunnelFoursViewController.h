@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "GUIBoard.h"
+<<<<<<< HEAD
 #import "BoardModel.h"
 #import "PieceHolder.h"
 
@@ -24,5 +25,12 @@
 @property(nonatomic,retain) PieceHolder *holder;
 @property(nonatomic,retain) BoardModel* boardModel;
 @property(nonatomic,retain) GUIBoard* boardView;
+=======
+
+@interface FunnelFoursViewController : UIViewController {
+	IBOutlet GUIBoard *board;
+}
+
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 @end
 

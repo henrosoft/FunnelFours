@@ -15,6 +15,7 @@
 		2899E5220DE3E06400AC0155 /* FunnelFoursViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* FunnelFoursViewController.xib */; };
 		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
 		28D7ACF80DDB3853001CB0EB /* FunnelFoursViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* FunnelFoursViewController.m */; };
+<<<<<<< HEAD
 		AD0EBA48134198A700857A8B /* BoardModel.m in Sources */ = {isa = PBXBuildFile; fileRef = ADC63C121334696A001CE70D /* BoardModel.m */; };
 		ADC63A381330379C001CE70D /* Piece.m in Sources */ = {isa = PBXBuildFile; fileRef = ADC63A371330379C001CE70D /* Piece.m */; };
 		ADC63C6913353C5B001CE70D /* PieceHolder.m in Sources */ = {isa = PBXBuildFile; fileRef = ADC63C6813353C5B001CE70D /* PieceHolder.m */; };
@@ -27,6 +28,10 @@
 		ADC644DB13394E38001CE70D /* Drop.aif in Resources */ = {isa = PBXBuildFile; fileRef = ADC644DA13394E38001CE70D /* Drop.aif */; };
 		ADC645271339C8F3001CE70D /* lrg_Universal_information_symbol.png in Resources */ = {isa = PBXBuildFile; fileRef = ADC645261339C8F3001CE70D /* lrg_Universal_information_symbol.png */; };
 		ADC64551133A5E85001CE70D /* waterDRIP5.WAV in Resources */ = {isa = PBXBuildFile; fileRef = ADC64550133A5E85001CE70D /* waterDRIP5.WAV */; };
+=======
+		AD4062FC132AB3E200871B0D /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = AD4062FB132AB3E200871B0D /* Square.m */; };
+		ADC63A381330379C001CE70D /* Piece.m in Sources */ = {isa = PBXBuildFile; fileRef = ADC63A371330379C001CE70D /* Piece.m */; };
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 		ADF98AAB1328454B0035EC43 /* GUIBoard.m in Sources */ = {isa = PBXBuildFile; fileRef = ADF98AAA1328454B0035EC43 /* GUIBoard.m */; };
 /* End PBXBuildFile section */
 
@@ -44,6 +49,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* FunnelFours_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FunnelFours_Prefix.pch; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* FunnelFours-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "FunnelFours-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		ADC63A361330379C001CE70D /* Piece.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Piece.h; sourceTree = "<group>"; };
 		ADC63A371330379C001CE70D /* Piece.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Piece.m; sourceTree = "<group>"; };
 		ADC63C111334696A001CE70D /* BoardModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BoardModel.h; sourceTree = "<group>"; };
@@ -60,6 +66,12 @@
 		ADC644DA13394E38001CE70D /* Drop.aif */ = {isa = PBXFileReference; lastKnownFileType = file; path = Drop.aif; sourceTree = SOURCE_ROOT; };
 		ADC645261339C8F3001CE70D /* lrg_Universal_information_symbol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lrg_Universal_information_symbol.png; sourceTree = "<group>"; };
 		ADC64550133A5E85001CE70D /* waterDRIP5.WAV */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = waterDRIP5.WAV; sourceTree = "<group>"; };
+=======
+		AD4062FA132AB3E200871B0D /* Square.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Square.h; sourceTree = "<group>"; };
+		AD4062FB132AB3E200871B0D /* Square.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Square.m; sourceTree = "<group>"; };
+		ADC63A361330379C001CE70D /* Piece.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Piece.h; sourceTree = "<group>"; };
+		ADC63A371330379C001CE70D /* Piece.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Piece.m; sourceTree = "<group>"; };
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 		ADF98AA91328454B0035EC43 /* GUIBoard.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GUIBoard.h; sourceTree = "<group>"; };
 		ADF98AAA1328454B0035EC43 /* GUIBoard.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GUIBoard.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -72,8 +84,11 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+<<<<<<< HEAD
 				ADC6400D13372ED8001CE70D /* AudioToolbox.framework in Frameworks */,
 				ADC640131337308A001CE70D /* CoreAudio.framework in Frameworks */,
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +98,7 @@
 		080E96DDFE201D6D7F000001 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				ADC64550133A5E85001CE70D /* waterDRIP5.WAV */,
 				ADC645261339C8F3001CE70D /* lrg_Universal_information_symbol.png */,
 				ADC644DA13394E38001CE70D /* Drop.aif */,
@@ -93,16 +109,25 @@
 				ADC6409F133739D1001CE70D /* Square.m */,
 				ADC63C6713353C5B001CE70D /* PieceHolder.h */,
 				ADC63C6813353C5B001CE70D /* PieceHolder.m */,
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 				ADF98AA91328454B0035EC43 /* GUIBoard.h */,
 				ADF98AAA1328454B0035EC43 /* GUIBoard.m */,
 				1D3623240D0F684500981E51 /* FunnelFoursAppDelegate.h */,
 				1D3623250D0F684500981E51 /* FunnelFoursAppDelegate.m */,
 				28D7ACF60DDB3853001CB0EB /* FunnelFoursViewController.h */,
 				28D7ACF70DDB3853001CB0EB /* FunnelFoursViewController.m */,
+<<<<<<< HEAD
 				ADC63A361330379C001CE70D /* Piece.h */,
 				ADC63A371330379C001CE70D /* Piece.m */,
 				ADC63C111334696A001CE70D /* BoardModel.h */,
 				ADC63C121334696A001CE70D /* BoardModel.m */,
+=======
+				AD4062FA132AB3E200871B0D /* Square.h */,
+				AD4062FB132AB3E200871B0D /* Square.m */,
+				ADC63A361330379C001CE70D /* Piece.h */,
+				ADC63A371330379C001CE70D /* Piece.m */,
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -152,8 +177,11 @@
 				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
 				1D30AB110D05D00D00671497 /* Foundation.framework */,
 				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+<<<<<<< HEAD
 				ADC6400C13372ED8001CE70D /* AudioToolbox.framework */,
 				ADC640121337308A001CE70D /* CoreAudio.framework */,
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -185,6 +213,7 @@
 			isa = PBXProject;
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "FunnelFours" */;
 			compatibilityVersion = "Xcode 3.1";
+<<<<<<< HEAD
 			developmentRegion = English;
 			hasScannedForEncodings = 1;
 			knownRegions = (
@@ -193,6 +222,9 @@
 				French,
 				German,
 			);
+=======
+			hasScannedForEncodings = 1;
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -209,12 +241,15 @@
 			files = (
 				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
 				2899E5220DE3E06400AC0155 /* FunnelFoursViewController.xib in Resources */,
+<<<<<<< HEAD
 				ADC6442D1339228C001CE70D /* Tink.aiff in Resources */,
 				ADC644681339451A001CE70D /* Frog.aiff in Resources */,
 				ADC644D113394C4A001CE70D /* My Song.m4a in Resources */,
 				ADC644DB13394E38001CE70D /* Drop.aif in Resources */,
 				ADC645271339C8F3001CE70D /* lrg_Universal_information_symbol.png in Resources */,
 				ADC64551133A5E85001CE70D /* waterDRIP5.WAV in Resources */,
+=======
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,10 +264,15 @@
 				1D3623260D0F684500981E51 /* FunnelFoursAppDelegate.m in Sources */,
 				28D7ACF80DDB3853001CB0EB /* FunnelFoursViewController.m in Sources */,
 				ADF98AAB1328454B0035EC43 /* GUIBoard.m in Sources */,
+<<<<<<< HEAD
 				ADC63A381330379C001CE70D /* Piece.m in Sources */,
 				ADC63C6913353C5B001CE70D /* PieceHolder.m in Sources */,
 				ADC640A0133739D1001CE70D /* Square.m in Sources */,
 				AD0EBA48134198A700857A8B /* BoardModel.m in Sources */,
+=======
+				AD4062FC132AB3E200871B0D /* Square.m in Sources */,
+				ADC63A381330379C001CE70D /* Piece.m in Sources */,
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,7 +314,11 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
+<<<<<<< HEAD
 				SDKROOT = iphoneos4.3;
+=======
+				SDKROOT = iphoneos3.1.2;
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			};
 			name = Debug;
 		};
@@ -287,7 +331,11 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				PREBINDING = NO;
+<<<<<<< HEAD
 				SDKROOT = iphoneos4.3;
+=======
+				SDKROOT = iphoneos3.1.2;
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 			};
 			name = Release;
 		};

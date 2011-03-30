@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+<<<<<<< HEAD
 @class FunnelFoursViewController;
 @interface GUIBoard : UIView {
 	int radius, rowHeight, outerPadding, lineWidth, centerx, centery;
@@ -27,4 +28,13 @@
 @property(nonatomic, readonly) int radius, rowHeight, outerPadding, lineWidth, centerx, centery;
 @property(nonatomic,readonly) CGColorRef fillColor, lineColor;
 @property(nonatomic,retain,readwrite) FunnelFoursViewController *controller;
+=======
+
+@interface GUIBoard : UIView {
+	int radius, rowHeight, outerPadding, lineWidth;
+	int centerx, centery;
+	float angleShift;
+	float angleVelocity;
+}
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 @end

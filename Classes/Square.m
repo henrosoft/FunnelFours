@@ -2,7 +2,11 @@
 //  Square.m
 //  FunnelFours
 //
+<<<<<<< HEAD
 //  Created by Henry Bradlow on 3/21/11.
+=======
+//  Created by Henry Bradlow on 3/11/11.
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 //  Copyright 2011 Westview High School. All rights reserved.
 //
 
@@ -10,6 +14,7 @@
 
 
 @implementation Square
+<<<<<<< HEAD
 int const EMPTY = 0;
 int const WHITE = 1;
 int const BLACK = 2;
@@ -38,5 +43,15 @@ int const BLACK = 2;
 -(NSString*) description
 {
 	return [NSString stringWithFormat:@"RID: %i, AID: %i",rid,aid];
+=======
+-(id)initWithRid:(int)rid andAid:(int)aid
+{
+	
+	return self;
+}
+-(void)drawSquare:(CGContextRef)context
+{
+//	CGContextMoveToPoint(context, GUIBoard.RADIUS, <#CGFloat y#>)
+>>>>>>> 8c7377e458228e4a3cb14f7f406cff26863e08c9
 }
 @end
